@@ -1,0 +1,35 @@
+<html class="full">
+
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<link href="full.css" rel="stylesheet">
+  <title>Tribute to JSB</title>
+</head>
+  <body style="background-image: url("./sheet-music-1229481_1920.jpg");">
+    <div class="container">
+      
+        
+    <div class="page-header">
+    <h1 class="text-center">Tribute to JSB</h1>
+    <h3 class="text-center">Musical Genius</h3>
+    </div>
+      <div class="row">
+        <div class="col-md-6">
+    <img class="img-responsive center-block" src="1000509261001_1707045537001_BIO-Biography-17-Composers-Johann-Sebastian-Bach-SF.jpg"</img>
+        </div>
+        <div class="col-md-6">
+    <ul class="list-group text-center">
+      <li class="list-group-item">1685: Born in Eisenach, Saxe-Eisenach, Germany</li>
+      <li class="list-group-item">1694: Mother and father died</li>
+      <li class="list-group-item">Easter 1707:  <em>Christ lag in Todesbanden</em>, one of his first cantatas, is performed</li>
+      <li class="list-group-item">1721: First performance of <em>The Brandenburg Concertos</em>, considered to be some of the best Baroque compositions</li>
+      <li class="list-group-item">1720: Wife died</li>
+      <li class="list-group-item">1723: Appointed Cantor of St. Thomas School in Leipzig</li>
+      <li class="list-group-item">1748-9: Mass in B Minor</li>
+      <li class="list-group-item">1750: Died in Leipzig, Saxony, Germany</li>
+    
+<li class="list-group-item"><a href="https://en.wikipedia.org/wiki/Johann_Sebastian_Bach">Wikipedia Article</a></div>
+      </div>
+      </div>
+  </body>
+</html>
